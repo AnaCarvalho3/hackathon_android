@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RickAndMorty_Android</string>
+    <string name="characters">Personagens</string>
+    <string name="episodes">Episodeos</string>
+</resources>
